@@ -1,5 +1,5 @@
 :root {
-    --cor0: #ff5100;
+    --cor0: #9ECDCF;
     --cor1: #FFD2A8;
     --cor2: #000000;
     --cor3: #FFFFFF;
@@ -38,7 +38,7 @@ header {
 
 i#burguer3 {
     background-color: var(--cor2);
-    color: var(--cor0);
+    color: var(--cor3);
 }
 
 h1#titulo2 {
@@ -60,8 +60,8 @@ p#cor-mr2{
 
 img#logo2 {
     background-color: var(--cor2);
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 50px;
 }
 
 #itens3 {

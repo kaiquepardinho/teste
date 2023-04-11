@@ -8,7 +8,7 @@
     }
 
     :root {
-        --cor0: #ff5100;
+        --cor0: #9ECDCF;
         --cor1: #FFD2A8;
         --cor2: #000000;
         --cor3: #FFFFFF;
@@ -29,7 +29,7 @@
     
     i#burguer {
         background-color: var(--cor2);
-        color: var(--cor0);
+        color: var(--cor3);
     }
     
     h1#titulo {
@@ -51,8 +51,8 @@
     
     img#logo {
         background-color: var(--cor2);
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
     }
     
     #itens {
@@ -90,7 +90,7 @@
         display: inline-block;
         text-decoration: none;
         text-align: center;
-        background: url(../celular/ft1.png) center center;
+        background: url(../celular/ft1.jpg) center center;
         background-size: cover;
         height: 100%;
         width: 100%;
@@ -150,7 +150,7 @@
     }
     
     a#pg2 {
-        background-image: url(../celular/ft3.png);
+        background-image: url(../celular/ft3.jpg);
     }
     
     p.tpaginas {
@@ -303,13 +303,13 @@
     }
 }
 
-@media screen (max-width: 400px){
+/*@media screen (max-width: 400px){
     h1#titulo {
         background-color: var(--cor2);
         color: var(--cor3);
         font-family: sans-serif;
         font-size: 10px;
     }
-}
+}*/
 
 
