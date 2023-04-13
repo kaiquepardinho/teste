@@ -370,7 +370,6 @@ iframe {
 @media (max-width:500px) {
     #sec1 {
         height: 140px;
-        color: darkmagenta;
     }
 
     #sec-text {
