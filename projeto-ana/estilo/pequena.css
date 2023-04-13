@@ -69,11 +69,11 @@
         text-decoration: none;
         padding-top: 10px;
         padding-bottom: 10px;
-        border-top: 2px solid var(--cor0);
+        border-top: 2px solid var(--cor3);
     }
 
     #esp {
-        border-bottom: 2px solid var(--cor0);
+        border-bottom: 2px solid var(--cor3);
     }
     
     #itens > ul > li > a:hover {

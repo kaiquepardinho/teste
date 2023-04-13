@@ -167,7 +167,8 @@
         margin-left: -40px;
     }
     
-    img#carro-img {
+    img#flor-img {
+        display: none;
         margin-top: 83px;
         height: 210px;
         width: 210px;
