@@ -370,7 +370,7 @@ iframe {
 @media (max-width:500px) {
     #sec1 {
         height: 140px;
-        color: chartreuse;
+        color: darkgoldenrod;
     }
 
     #sec-text {
@@ -383,13 +383,13 @@ iframe {
         font-size: 28px;
         position: relative;
         top: 40px;
-        margin-bottom: 0%;
+        margin-bottom: 20%;
     }
     
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 30%;
+        margin-top: 35%;
         margin-bottom: 20%
     }
     
