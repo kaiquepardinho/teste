@@ -127,13 +127,13 @@
     
     aside.linkspg {
         display: inline-block;
-        height: 170px;
-        width: 170px;
+        height: 150px;
+        width: 150px;
         margin-left: 10px;
         margin-right: 10px;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
         position: relative;
-        top: 20px;
+        top: 30px;
     }
     
     a.paglinks {
