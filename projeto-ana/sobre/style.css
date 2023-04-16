@@ -466,7 +466,7 @@ iframe {
 @media (max-width:500px) {
     #sec1 {
         height: 140px;
-        color: fuchsia;
+        color: rgb(43, 255, 0);
     }
     
     #sec1 > h1 {
@@ -479,8 +479,8 @@ iframe {
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 50%;
-        margin-bottom: 0%
+        margin-top: 70%;
+        margin-bottom: 10%
     }
     
     #sec3 {
