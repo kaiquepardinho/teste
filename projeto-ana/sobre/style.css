@@ -472,15 +472,15 @@ iframe {
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 40px;
+        top: 100px;
         margin-bottom: 20%;
     }
     
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 70%;
-        margin-bottom: 10%
+        margin-top: 80%;
+        margin-bottom: 5%
     }
     
     #sec3 {
