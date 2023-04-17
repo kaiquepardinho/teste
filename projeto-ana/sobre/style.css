@@ -505,7 +505,7 @@ iframe {
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     #sec1 {
         height: 140px;
         color: rgb(119, 0, 255);
