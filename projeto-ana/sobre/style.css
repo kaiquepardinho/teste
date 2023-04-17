@@ -463,7 +463,7 @@ iframe {
     }
 }
 
-@media (max-width:000px) {
+@media (max-width:500px) {
     #sec1 {
         height: 140px;
         color: fuchsia;
@@ -505,10 +505,10 @@ iframe {
     }
 }
 
-@media (max-width:500px) {
+@media (max-width:400px) {
     #sec1 {
         height: 140px;
-        color: rgb(0, 255, 149);
+        color: rgb(30, 255, 0);
     }
     
     #sec1 > h1 {
@@ -519,6 +519,7 @@ iframe {
     }
     
     #sec2 {
+        font-size: 18px;
         width: 80%;
         text-align: justify;
         margin-top: 80%;
