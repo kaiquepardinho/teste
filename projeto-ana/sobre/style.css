@@ -505,6 +505,48 @@ iframe {
     }
 }
 
+@media (max-width:400px) {
+    #sec1 {
+        height: 140px;
+        color: rgb(119, 0, 255);
+    }
+    
+    #sec1 > h1 {
+        font-size: 28px;
+        position: relative;
+        top: 40px;
+        margin-bottom: 20%;
+    }
+    
+    #sec2 {
+        width: 80%;
+        text-align: justify;
+        margin-top: 60%;
+        margin-bottom: 5%
+    }
+    
+    #sec3 {
+        margin-top: 40%;
+        width: 80%;
+    }
+
+    #sec4 {
+        width: 80%;
+    }
+    
+    #sec5 {
+        width: 80%;
+    }
+
+    #maps {
+        width: 80%;
+    }
+
+    iframe {
+        margin-bottom: 100px;
+    }
+}
+
 #conteiner02 {
     padding-top: 20px;
     height: 815px;
@@ -661,8 +703,8 @@ a#pg6{
     }
 
     .paglinks {
-        height: 180px;
-        width: 180px;
+        height: 160px;
+        width: 160px;
         margin-left: 10px;
         margin-right: 10px;
         margin-top: 20px;
