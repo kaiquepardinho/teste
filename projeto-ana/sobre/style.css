@@ -508,21 +508,21 @@ iframe {
 @media (max-width:500px) {
     #sec1 {
         height: 140px;
-        color: rgb(217, 255, 0);
+        color: rgb(0, 255, 149);
     }
     
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 80px;
+        top: 120px;
         margin-bottom: 20%;
     }
     
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 65%;
-        margin-bottom: 5%
+        margin-top: 80%;
+        margin-bottom: 15%
     }
     
     #sec3 {
