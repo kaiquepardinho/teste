@@ -523,6 +523,7 @@ iframe {
     }
     
     #sec1 > h1 {
+        color: chartreuse;
         font-size: 28px;
         position: relative;
         top: 140px;
@@ -532,8 +533,8 @@ iframe {
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 80%;
-        margin-bottom: 25%
+        margin-top: 90%;
+        margin-bottom: 35%
     }
 
     #sec > h2 {
@@ -541,7 +542,7 @@ iframe {
     }
     
     #sec3 {
-        margin-top: 20%;
+        margin-top: 40%;
         width: 80%;
     }
 
