@@ -535,6 +535,10 @@ iframe {
         margin-top: 80%;
         margin-bottom: 15%
     }
+
+    #sec > h2 {
+        margin-bottom: 60px;
+    }
     
     #sec3 {
         margin-top: 20%;
