@@ -465,7 +465,7 @@ iframe {
 @media (max-width:550px) {
     #sec1 {
         height: 140px;
-        color: darkorange;
+        color: rgb(0, 255, 255);
     }
 
     #sec {
@@ -484,7 +484,7 @@ iframe {
     }
 
     main{
-        height: 3700px;
+        height: 3500px;
     }
 
     iframe {
