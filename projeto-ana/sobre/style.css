@@ -332,7 +332,7 @@ iframe {
 
     #sec1 {
         height: 160px;
-        color: rgb(43, 226, 119);
+
     }
 
     #sec2 {
@@ -350,7 +350,7 @@ iframe {
 
     #sec1 {
         height: 160px;
-        color: blueviolet;
+
     }
 
     #sec2 {
@@ -367,7 +367,7 @@ iframe {
 @media (max-width: 1000px) {
     #sec1 {
         height: 160px;
-        color: aqua;
+
     }
     
     #sec2 {
@@ -389,7 +389,7 @@ iframe {
 @media (max-width:850px) {
     #sec1 {
         height: 160px;
-        color: chartreuse;
+
     }
 
     #sec2 {
@@ -412,7 +412,7 @@ iframe {
 @media (max-width: 800px) {
     #sec1 {
         height: 180px;
-        color: chocolate;
+
     }
  
 
@@ -435,7 +435,7 @@ iframe {
 @media (max-width:650px) {
     #sec1 {
         height: 180px;
-        color: darkblue;
+
     }
 
     #sec {
@@ -465,7 +465,7 @@ iframe {
 @media (max-width:550px) {
     #sec1 {
         height: 140px;
-        color: rgb(0, 255, 34);
+
     }
 
     #sec {
