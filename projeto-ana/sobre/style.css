@@ -526,15 +526,15 @@ iframe {
         color: chartreuse;
         font-size: 28px;
         position: relative;
-        top: 140px;
+        top: 160px;
         margin-bottom: 30%;
     }
     
     #sec2 {
         width: 80%;
         text-align: justify;
-        margin-top: 90%;
-        margin-bottom: 35%
+        margin-top: 95%;
+        margin-bottom: 50%
     }
 
     #sec > h2 {
