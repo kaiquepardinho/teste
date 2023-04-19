@@ -103,13 +103,13 @@ img#logo2 {
 #sec1 > h1 {
     font-size: 28px;
     position: relative;
-    top: 40px;
+    top: 60px;
 }
 
 #sec2 {
-    width: 70%;
+    width: 100%;
     text-align: justify;
-    margin-top: 8%;
+    margin-top: 24%;
     margin-bottom: 0%;
     color: var(--cor3);
 }
@@ -326,6 +326,7 @@ iframe {
 @media (max-width: 1150px) {
     #sec1 {
         height: 160px;
+        color: blueviolet;
     }
     
     #sec1 > h1 {
@@ -336,26 +337,27 @@ iframe {
 
     #sec2 {
         text-align: justify;
-        margin-top: 17%;
-        margin-bottom: 2%;
+        margin-top: 32%;
+        margin-bottom: 0%;
     }
 }
 
 @media (max-width: 1000px) {
     #sec1 {
         height: 160px;
+        color: aqua;
     }
     
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 60px;
+        top: 80px;
     }
 
     #sec2 {
         text-align: justify;
-        margin-top: 17%;
-        margin-bottom: 2%
+        margin-top: 46%;
+        margin-bottom: 0%
     }
 }
 
@@ -365,21 +367,26 @@ iframe {
     }
 }
 
-@media (max-width:900px) {
+@media (max-width:850px) {
     #sec1 {
         height: 160px;
+        color: chartreuse;
     }
     
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 60px;
+        top: 90px;
     }
 
     #sec2 {
         text-align: justify;
-        margin-top: 17%;
-        margin-bottom: 2%
+        margin-top: 64%;
+        margin-bottom: 0%
+    }
+
+    #sec {
+        margin-bottom: -10%;
     }
 
     #sec3{
@@ -387,28 +394,26 @@ iframe {
     }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 800px) {
     #sec1 {
         height: 180px;
-        margin-bottom: 20%;
     }
     
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 60px;
-        
+        top: 120px;
+        color: brown;
     }
 
     #sec2 {
         text-align: justify;
-        margin-top: 0%;
-        padding-top: 30%;
-        margin-bottom: 4%;
+        margin-top: 70%;
+        margin-bottom: -10%;
     }
 
     #sec {
-        width: 70%;
+        width: 80%;
         text-align: justify;
         top: 300px;
     }
@@ -433,21 +438,21 @@ iframe {
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 40px;
-        margin-bottom: -10%;
+        top: 130px;
+        color: cadetblue;
     }
     
     #sec2 {
-        width: 80%;
+        width: 100%;
         text-align: justify;
-        margin-top: 10%;
-        margin-bottom: 0%
+        margin-top: 93%;
+        margin-bottom: -10%
     }
 
     #sec {
         width: 80%;
         text-align: justify;
-        top: 290px;
+        margin-bottom: -30%;
     }
     
     #sec3 {
@@ -472,7 +477,7 @@ iframe {
     }
 }
 
-@media (max-width:550px) {
+@media (max-width:580px) {
     #sec1 {
         height: 140px;
     }
@@ -480,19 +485,19 @@ iframe {
     #sec1 > h1 {
         font-size: 28px;
         position: relative;
-        top: 200px;
-        margin-bottom: 30%;
+        top: 140px;
+        color: cyan;
     }
     
     #sec2 {
-        width: 80%;
+        width: 100%;
         text-align: justify;
-        margin-top: 70%;
-        margin-bottom: 10%
+        margin-top: 125%;
+        margin-bottom: -15%
     }
 
     #sec {
-        margin-bottom: -15%
+        margin-bottom: -20%
     }
     
     #sec3 {
@@ -517,7 +522,7 @@ iframe {
     }
 }
 
-@media (max-width:500px) {
+@media (max-width:520px) {
     #sec1 {
         height: 140px;
     }
@@ -527,18 +532,17 @@ iframe {
         font-size: 28px;
         position: relative;
         top: 160px;
-        margin-bottom: 30%;
     }
     
     #sec2 {
-        width: 80%;
+        width: 100%;
         text-align: justify;
-        margin-top: 95%;
-        margin-bottom: 50%
+        margin-top: 180%;
+        margin-bottom: -20%
     }
 
-    #sec > h2 {
-        margin-bottom: 60px;
+    #sec {
+        margin-bottom: -30%;
     }
     
     #sec3 {
