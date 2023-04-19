@@ -465,15 +465,11 @@ iframe {
 @media (max-width:550px) {
     #sec1 {
         height: 140px;
-        color: rgb(255, 0, 234);
+        color: rgb(0, 255, 34);
     }
 
     #sec {
         width: 80%;
-        position: relative;
-        top: 8%;
-        left: 50%;
-        transform: translate(-50%, -0%);
     }
     
     #sec2 {
@@ -488,12 +484,11 @@ iframe {
     }
 
     main{
-        height: 3900px;
+        height: 3600px;
     }
 
     iframe {
-        margin-top: 0%;
-        margin-bottom: -100%;
+        margin-bottom: 100px;
     }
 
     #conteiner02 {
