@@ -1107,6 +1107,7 @@ iframe {
 
     #sec2 {
         margin-top: 70%;
+        word-spacing: -5px;
     }
 
     #sec3 {
@@ -1116,9 +1117,4 @@ iframe {
     #maps {
         margin-top: 170px;
     }
-
-    main {
-        word-spacing: 0.1px;
-    }
-
 }
