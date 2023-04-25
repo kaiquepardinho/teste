@@ -1117,4 +1117,8 @@ iframe {
         margin-top: 170px;
     }
 
+    main {
+        word-spacing: 0.1px;
+    }
+
 }
