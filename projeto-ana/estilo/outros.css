@@ -161,18 +161,6 @@
     #burguer2 {
         font-size: 32px;
     }
-
-    #div002 {
-        float: right;
-        margin-left: -40px;
-    }
-    
-    img#flor-img {
-        display: none;
-        margin-top: 83px;
-        height: 210px;
-        width: 210px;
-    }
     
     aside#boxright {
         box-sizing: border-box;

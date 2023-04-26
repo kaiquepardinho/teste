@@ -106,15 +106,6 @@
         transform: translatey(-50%);
     }
     
-    p#carro{
-        display: inline-block;
-        background: none;
-        color: var(--cor0);
-        margin-left: -2px;
-        margin-right: -2px;
-        font-size: 35px;
-        font-weight: bold;
-    }
     
     section#paginas {
         text-align: center;
